@@ -39,7 +39,7 @@ export default createStackNavigator(
       header: (
         <Appbar.Header>
           <Appbar.Action icon="menu" onPress={() => navigation.openDrawer()} />
-          <Appbar.Content title="altLab Newsletters" />
+          <Appbar.Content title="Examples" />
         </Appbar.Header>
       ),
     }),
